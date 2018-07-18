@@ -1,0 +1,8 @@
+C:\Users\jmcarthur\Git\ps_test\ps_test\obj\Debug\ps_test.csprojResolveAssemblyReference.cache
+C:\Users\jmcarthur\Git\ps_test\ps_test\obj\Debug\ps_test.csproj.CoreCompileInputs.cache
+C:\Users\jmcarthur\Git\ps_test\ps_test\bin\Debug\ps_test.exe.config
+C:\Users\jmcarthur\Git\ps_test\ps_test\bin\Debug\ps_test.exe
+C:\Users\jmcarthur\Git\ps_test\ps_test\bin\Debug\ps_test.pdb
+C:\Users\jmcarthur\Git\ps_test\ps_test\bin\Debug\System.Management.Automation.dll
+C:\Users\jmcarthur\Git\ps_test\ps_test\obj\Debug\ps_test.exe
+C:\Users\jmcarthur\Git\ps_test\ps_test\obj\Debug\ps_test.pdb

@@ -1,0 +1,7 @@
+C:\Users\jmcarthur\Git\GUID_converter\GUID_converter\bin\Debug\GUID_converter.exe.config
+C:\Users\jmcarthur\Git\GUID_converter\GUID_converter\bin\Debug\GUID_converter.exe
+C:\Users\jmcarthur\Git\GUID_converter\GUID_converter\bin\Debug\GUID_converter.pdb
+C:\Users\jmcarthur\Git\GUID_converter\GUID_converter\obj\Debug\GUID_converter.csprojResolveAssemblyReference.cache
+C:\Users\jmcarthur\Git\GUID_converter\GUID_converter\obj\Debug\GUID_converter.csproj.CoreCompileInputs.cache
+C:\Users\jmcarthur\Git\GUID_converter\GUID_converter\obj\Debug\GUID_converter.exe
+C:\Users\jmcarthur\Git\GUID_converter\GUID_converter\obj\Debug\GUID_converter.pdb
